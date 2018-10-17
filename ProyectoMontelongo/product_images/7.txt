@@ -1,0 +1,6 @@
+Nombre:
+Tarjeta de Video ASUS NVIDIA GeForce GT 710
+Precio:
+$ 2,509.00
+Descripcion:
+ASUS NVIDIA GeForce GT 710. Familia de procesadores de gráficos: NVIDIA, Procesador gráfico: GeForce GT 710, Frecuencia del procesador: 954 MHz. Gráficos discretos memoria del adaptador: 2 GB, Tipo de memoria de adaptador gráfico: GDDR3, Ancho de datos: 64 bit, Velocidad de memoria del reloj: 900 MHz. Máxima resolución: 2560 x 1600 Pixeles. Versión OpenGL: 4.4. Tipo de interfaz: PCI Express 2.0.

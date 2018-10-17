@@ -1,0 +1,23 @@
+Nombre:
+Procesador Intel Core I5 8400 6 Nucleos 1151 8va Generacion
+Precio:
+$3,974
+Descripcion:
+Ante ustedes el Procesador Intel de 8va Generacion i5 8400
+de 6 Nucleos
+
+Frecuencia del procesador * 2,80 GHz
+Número de núcleos de procesador * 6
+Socket de procesador * LGA 1151 (Socket H4)
+Componente para * PC
+Litografía del procesador * 14 nm
+Caja * SI
+Refrigerador incluido * Si
+Modelo del procesador * i5-8400
+Número de filamentos de procesador * 6
+System bus data transfer rate * 8 GT/s
+Modo de procesador operativo * 64 bits
+Caché del procesador 9 MB
+Tipo de cache en procesador Smart Cache
+Frecuencia del procesador turbo 4,00 GHz
+Tipos de bus DMI3

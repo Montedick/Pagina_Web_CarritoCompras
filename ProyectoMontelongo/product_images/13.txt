@@ -1,0 +1,14 @@
+Nombre:
+Procesador Intel 8th I3 8100
+Precio:
+$2,620
+Descripcion:
+Especificaciones gráficas
+Gráficos del procesador ‡
+Gráficos Intel® UHD 630
+Frecuencia base de gráficos
+350 MHz
+Gráficos Max Dynamic Frequency
+1.10 GHz
+Gráficos Video Max Memory
+64 GB

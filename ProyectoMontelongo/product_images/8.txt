@@ -1,0 +1,10 @@
+Nombre:
+Gigabyte GV-N1050WF2OC-2GD 
+Precio:
+$4,144.18
+Descripcion:
+Nuevo Arquitectura Nvidia Pascal ofrece un mejor rendimiento y eficiencia de energía
+Clásico y Moderno juegos en 1080p 60.fps
+Rápido, suave, eficiente experiencias de juego
+Soporte para las últimas características DirectX 12
+Tarjeta size-h = 40.L = 229.W = 118.mm

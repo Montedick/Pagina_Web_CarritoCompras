@@ -1,0 +1,16 @@
+Nombre:
+Tarjeta De Video Asus Dual Gtx1050ti 4gb
+Precio:
+$5,499
+Descripcion:
+Motor Gráfico
+NVIDIA GeForce GTX 1050 TI
+Bus
+PCI Express 3.0
+OpenGL
+OpenGL®4.5
+Memoria de Video
+GDDR5 4GB
+Frecuencia del Reloj
+GPU Boost Clock : 1392 MHz
+GPU Base Clock : 1290 MHz

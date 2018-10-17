@@ -1,0 +1,6 @@
+Nombre:
+Procesador Intel Core I7 7820x Serie-x Ocho 4.3 Ghz Lga2066
+Precio:
+$13,500
+Descripcion:
+Con hasta 18 núcleos y 36 subprocesos, la familia de procesadores Intel® Core™ serie X es nuestra familia más potente. Convierta su computadora en un estudio: cree sorprendentes videos en 4K o en 360 grados, fotografías impresionantes o música increíble. Es la herramienta definitiva para videojuegos y realidad virtual. Experimente el poder de hacerlo todo

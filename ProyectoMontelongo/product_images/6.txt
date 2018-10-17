@@ -1,0 +1,6 @@
+Nombre:
+Tarjeta de Video Gigabyte NVIDIA GeForce GTX 960
+Precio:
+$ 3,219.00
+Descripcion:
+El sistema de refrigeración WINDFORCE 2X cuenta con dos ventiladores de hoja únicos de 80 mm y un ventilador activo semi-pasivo 3D que proporcionan una capacidad eficaz de disipación de calor para un mayor rendimiento a temperaturas más bajas.
